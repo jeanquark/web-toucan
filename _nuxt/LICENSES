@@ -5,26 +5,11 @@
   */
 
 /*!
- * @overview es6-promise - a tiny implementation of Promises/A+.
- * @copyright Copyright (c) 2014 Yehuda Katz, Tom Dale, Stefan Penner and contributors (Conversion to ES6 API by Jake Archibald)
- * @license   Licensed under MIT license
- *            See https://raw.githubusercontent.com/stefanpenner/es6-promise/master/LICENSE
- * @version   3.3.1
- */
-
-/*!
  * JavaScript Cookie v2.2.1
  * https://github.com/js-cookie/js-cookie
  *
  * Copyright 2006, 2015 Klaus Hartl & Fagner Brack
  * Released under the MIT license
- */
-
-/*!
- * The buffer module from node.js, for the browser.
- *
- * @author   Feross Aboukhadijeh <http://feross.org>
- * @license  MIT
  */
 
 /*!
@@ -41,13 +26,6 @@
  */
 
 /*!
- * methods
- * Copyright(c) 2013-2014 TJ Holowaychuk
- * Copyright(c) 2015-2016 Douglas Christopher Wilson
- * MIT Licensed
- */
-
-/*!
  * vue-client-only v2.0.0
  * (c) 2019-present egoist <0x142857@gmail.com>
  * Released under the MIT License.
@@ -58,7 +36,3 @@
  * (c) 2018-present egoist <0x142857@gmail.com>
  * Released under the MIT License.
  */
-
-/*! https://mths.be/punycode v1.4.1 by @mathias */
-
-/*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
